@@ -1,4 +1,4 @@
-# datasets
+# Datasets
 Datasets related to our research and experiments
 (c) Petr Matousek, Brno University of Technology
 Contact: matousp@fit.vutbr.cz
