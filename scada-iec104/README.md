@@ -1,4 +1,9 @@
 <h3>This directory contains datasets described in the paper submitted to IM 2020 conference.</h3>
+(c) Petr Matoušek, Faculty of Information Technology, Brno University of Technology, Czech Republic
+Contact: matousp@fit.vutbr.cz
+
+The CSV files below were obtained from the IPFIX flow probe with IEC 104 support. Original PCAP files 
+were captured at the research lab of the Faculty of Electrical Engineering and Communication, Brno University of Technology.
 
 * iec104-traffic/ - contains IEC 104 flows in CSV format 
    * iec104-ioa.csv - 2:25 min of the traffic, 64x IEC 104 packets
