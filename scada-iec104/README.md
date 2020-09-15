@@ -1,7 +1,9 @@
 <h3>This directory contains datasets described in the paper submitted to IM 2020 conference.</h3>
+<br>
 (c) Petr Matoušek, Faculty of Information Technology, Brno University of Technology, Czech Republic
+<br>
 Contact: matousp@fit.vutbr.cz
-
+<br>
 The CSV files below were obtained from the IPFIX flow probe with IEC 104 support. Original PCAP files 
 were captured at the research lab of the Faculty of Electrical Engineering and Communication, Brno University of Technology.
 
