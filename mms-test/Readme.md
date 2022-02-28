@@ -32,8 +32,8 @@ gics-test-normal-conv.csv
 gics-test-lost-connection.csv: 
 ------------------------------
   * two lost connections: 2x
-  * missing packets: from 07:20:11.38 to 07:22:01,45 (58 packets)
-  * missing packets: from 07:27:41.46 to 07:29:51,53 (63 packets)
+    * missing packets: from 07:20:11.38 to 07:22:01,45 (58 packets)
+    * missing packets: from 07:27:41.46 to 07:29:51,53 (63 packets)
 
 gics-test-modified.csv:
 ------------------------------
@@ -45,7 +45,7 @@ gics-test-modified.csv:
 gics-test-scanning.csv:
 ------------------------------
   * The attacker scans resources by (0,1),(1,1), (0,12),(1,12) etc., packets with Invoke Id from 1 to 34.
-  * The attack was launched at 7:50:41,51 and ends at 07:53:01:51 (73 packets).
+    * The attack was launched at 7:50:41,51 and ends at 07:53:01:51 (73 packets).
 
 gics-test-interrupt.csv:
 ------------------------------
