@@ -1,6 +1,8 @@
 # Datasets
 Datasets related to our research and experiments
+
 (c) Petr Matousek, Brno University of Technology
+
 Contact: matousp@fit.vutbr.cz
 
 This directory contains datasets related to the past and running research projects provided by NES@FIT research group at Brno University of Technology, Czech Republic
