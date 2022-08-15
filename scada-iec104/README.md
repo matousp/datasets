@@ -15,7 +15,8 @@ were captured at the research lab of the Faculty of Electrical Engineering and C
    * 10122018-104Mega.csv - 04:53:21 hours of the traffic, 104.533 APDUs
 
 * attacks/ - contains cyber attacks on IEC 104 communication
-          - the attacks were emulated using normal traffic obtained from mega104-17-12-18-ioa.csv file.
+          - the attacks were emulated using normal traffic obtained from mega104-17-12-18.csv file
+          - attack communication covers 2 days and 23 hours of traffic
           - see Readme.txt for details about the attacks 
    * injection-attack.csv
    * raw-device.csv
